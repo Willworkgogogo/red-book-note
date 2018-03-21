@@ -47,7 +47,7 @@
   console.log(filter) // [4, 5, 6]
 ```
 
-3. **map()**，处理数组的`每一项`，返回处理后的`新数组`
+3. **map()**，处理数组的`每一项`，返回处理后的`新数组`; 根据return的内容组成新的数组，如果只返回对象的某个属性，如 return obj.name ， 则组成["will", "janet"]数组
 ```js
   var arr = [1,2,3,4,5,6]
   var map = arr.map(function(item) {
