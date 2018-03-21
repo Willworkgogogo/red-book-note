@@ -6,7 +6,20 @@
 1. [（第003篇）Array的其他方法](https://github.com/Willworkgogogo/red-book-note/issues/3)
 
 
+
+
+
 ### Es6总结30篇
+1. [（第01篇）Promise语法解析](https://github.com/Willworkgogogo/red-book-note/issues/4)
+
+
+
+
 
 ### Axios库API
-1. [（第1篇）Axios api整理](https://github.com/Willworkgogogo/red-book-note/issues/4)
+1. [Axios api整理](https://github.com/Willworkgogogo/red-book-note/issues/4)
+
+
+
+
+### Node学习笔记
