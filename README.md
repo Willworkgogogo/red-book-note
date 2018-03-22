@@ -25,7 +25,7 @@
 <h3 id="3">Vue</h3>
 
 1. vue-cli项目文档结构详解
-    - [build文件夹____check-versions.js]()
+    - [build文件夹____check-versions.js](https://github.com/Willworkgogogo/red-book-note/blob/master/note/vue/vue-cli/check-versions.js.md)
   
 
  
