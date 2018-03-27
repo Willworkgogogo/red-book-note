@@ -35,7 +35,7 @@
 1. 源码解析
     - [浅析Vue.use()](https://github.com/Willworkgogogo/red-book-note/blob/master/note/vue/vue-use.md)
 1. 其他
-    - [Vscode开发vue环境的配置]()
+    - [Vscode开发vue环境的配置](https://github.com/Willworkgogogo/red-book-note/blob/master/note/vue/vscode.config.md)
 <h3 id="4">Axios库API</h3>
 
 1. [Axios api整理](https://github.com/Willworkgogogo/red-book-note/issues/4)
