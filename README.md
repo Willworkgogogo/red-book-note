@@ -11,7 +11,7 @@
 1. [（第001篇）Array.prototype.sort()实现原理](https://github.com/Willworkgogogo/red-book-note/issues/1)
 1. [（第002篇）concat()、slice()、splice()详解](https://github.com/Willworkgogogo/red-book-note/issues/2)
 1. [（第003篇）Array的其他方法](https://github.com/Willworkgogogo/red-book-note/issues/3)
-1. [（第004篇）call()、apply()使用]()
+1. [（第004篇）call()、apply()使用](https://github.com/Willworkgogogo/red-book-note/blob/master/note/redbook/apply%08-call.md)
 
 
 
@@ -33,11 +33,9 @@
     - [build文件夹____webpack.base.conf.js](https://github.com/Willworkgogogo/red-book-note/blob/master/note/vue/vue-cli/webpack.base.conf.js.md)
     - [build文件夹____webpack.dev.conf.js](https://github.com/Willworkgogogo/red-book-note/blob/master/note/vue/vue-cli/webpack.dev.conf.js.md)
 1. 源码解析
-    - [浅析Vue.use()]()
-
+    - [浅析Vue.use()](https://github.com/Willworkgogogo/red-book-note/blob/master/note/vue/vue-use.md)
 1. 其他
     - [Vscode开发vue环境的配置]()
-
 <h3 id="4">Axios库API</h3>
 
 1. [Axios api整理](https://github.com/Willworkgogogo/red-book-note/issues/4)
