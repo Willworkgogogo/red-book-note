@@ -12,7 +12,7 @@
     "editor.fontSize": 14,
     "workbench.colorTheme": "Atom One Dark",
     "workbench.iconTheme": "vscode-icons",
-    "editor.tabSize": 2, // 缩进
+    "editor.tabSize": 2, // 缩进
     "editor.renderIndentGuides": false,
     "vsicons.dontShowNewVersionMessage": true,
     "editor.minimap.enabled": true,
@@ -48,5 +48,5 @@
   }
 ```
 
-- vetur插件使用prettier进行格式化，双引号、分号的添加都是在prettier中进行设置
-- prettier中又内置了很多其他插件规范，比如有sass/less/stylus，所以要单独下载stylus superacy来对stylus的格式化进行配置
+- vetur插件使用prettier进行格式化，双引号、分号的添加都是在prettier中进行设置
+- prettier中又内置了很多其他插件规范，比如有sass/less/stylus，所以要单独下载stylus superacy来对stylus的格式化进行配置
