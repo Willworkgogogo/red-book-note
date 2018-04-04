@@ -10,7 +10,7 @@
 
 1. [（第001篇）Array.prototype.sort()实现原理](https://github.com/Willworkgogogo/red-book-note/blob/master/note/redbook/sort.md)
 1. [（第002篇）concat()、slice()、splice()详解](https://github.com/Willworkgogogo/red-book-note/issues/2)
-1. [（第003篇）Array的其他方法](https://github.com/Willworkgogogo/red-book-note/issues/3)
+1. [（第003篇）Array的其他方法every、some、filter、map、forEach、reduce](https://github.com/Willworkgogogo/red-book-note/blob/master/note/redbook/array.md)
 1. [（第004篇）call()、apply()使用](https://github.com/Willworkgogogo/red-book-note/blob/master/note/redbook/apply%08-call.md)
 1. [（第005篇）基本概念]()
 1. [（第006篇）Date类型]()
