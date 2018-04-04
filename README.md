@@ -12,10 +12,10 @@
 1. [（第002篇）concat()、slice()、splice()详解](https://github.com/Willworkgogogo/red-book-note/issues/2)
 1. [（第003篇）Array的其他方法every、some、filter、map、forEach、reduce](https://github.com/Willworkgogogo/red-book-note/blob/master/note/redbook/array.md)
 1. [（第004篇）call()、apply()使用](https://github.com/Willworkgogogo/red-book-note/blob/master/note/redbook/apply%08-call.md)
-1. [（第005篇）基本概念]()
-1. [（第006篇）Date类型]()
-1. [（第007篇）正则 RegExp 类型]()
-1. [（第008篇）setTimeout、setInterval]()
+1. [（第005篇）基本概念](https://github.com/Willworkgogogo/red-book-note/blob/master/note/redbook/base-concepts.md)
+1. [（第006篇）Date类型](https://github.com/Willworkgogogo/red-book-note/blob/master/note/redbook/date.md)
+1. [（第007篇）正则 RegExp 类型](https://github.com/Willworkgogogo/red-book-note/blob/master/note/redbook/regexp.md)
+1. [（第008篇）setTimeout、setInterval](https://github.com/Willworkgogogo/red-book-note/blob/master/note/redbook/setTimeout_setInterval.md)
 
 
 
