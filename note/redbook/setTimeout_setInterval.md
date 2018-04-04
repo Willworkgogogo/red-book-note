@@ -14,7 +14,7 @@
 > 即运行环境。这个环境会暴露一些接口供程序调用，前端接触比较清楚的是浏览器环境和Node环境，分别提供了例如Window、DOM等， Node提供global、require等封装好的对象，提供了方法和属性。没有这个环境，没有这个地基，js代码就毫无意义。
 
 `借用网上的一张图：`
-![](http://image.yalingmai.cn/js-loop.png)
+![js运行原理](http://image.yalingmai.cn/js-loop.png)
 
 ## 正文
 
