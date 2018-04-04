@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+</head>
+<body>
+  <h2>hasClass Test</h2>
+  <div id="div0" class="bd user disabled">测试div, 测试结果： <span id="res0"></span></div>
+  
+  <script src="./wuo.js"></script>
+  <script>
+    window.onload = function() {
+      document.querySelector('#res0').innerHTML(Wuo.dealClass.hasClass(document.querySelector('#div0'), 'user'))
+    }
+  </script>
+</body>
+</html>
