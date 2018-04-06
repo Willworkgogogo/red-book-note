@@ -16,7 +16,7 @@
 1. [（第006篇）Date类型](https://github.com/Willworkgogogo/red-book-note/blob/master/note/redbook/date.md)
 1. [（第007篇）正则 RegExp 类型](https://github.com/Willworkgogogo/red-book-note/blob/master/note/redbook/regexp.md)
 1. [（第008篇）setTimeout、setInterval](https://github.com/Willworkgogogo/red-book-note/blob/master/note/redbook/setTimeout_setInterval.md)
-1. [（第008篇）SVG Sprite](https://github.com/Willworkgogogo/red-book-note/blob/master/note/redbook/setTimeout_setInterval.md)
+1. [（第008篇）SVG Sprite](https://github.com/Willworkgogogo/red-book-note/blob/master/note/redbook/svg.md)
 1. [（第008篇）Event Loop](https://github.com/Willworkgogogo/red-book-note/blob/master/note/redbook/setTimeout_setInterval.md)
 
 
