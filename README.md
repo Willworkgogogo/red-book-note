@@ -2,9 +2,10 @@
 1. [红宝书总结100篇](#1)
 1. [Es6总结30篇](#2)
 1. [Vue](#3)
-1. [Axios库API](#4)
 1. [Node笔记](#5)
 1. [Rxjs笔记](#6)
+1. [Jquery源码](#7)
+1. [Axios库API](#4)
 
 <h3 id="1">红宝书总结100篇</h3>
 
@@ -43,9 +44,6 @@
 1. 其他
     - [Vscode开发vue环境的配置](https://github.com/Willworkgogogo/red-book-note/blob/master/note/vue/vscode.config.md)
     - [理解Vuex]()
-<h3 id="4">Axios库API</h3>
-
-1. [Axios api整理](https://github.com/Willworkgogogo/red-book-note/issues/4)
 
 
 
@@ -55,3 +53,9 @@
 
 
 <h3 id="6">Rxjs笔记</h3>
+
+<h3 id="7">Jquery源码</h3>
+
+<h3 id="4">Axios库API</h3>
+
+1. [Axios api整理](https://github.com/Willworkgogogo/red-book-note/issues/4)
