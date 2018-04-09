@@ -58,5 +58,5 @@
 
 <h3 id="4">其他</h3>
 
-1. [Axios api整理](https://github.com/Willworkgogogo/red-book-note/issues/4)
-1. [Mock.js 使用]()
+1. [Axios api整理](https://github.com/Willworkgogogo/red-book-note/blob/master/note/other/axios.md)
+1. [Mock.js 使用](https://github.com/Willworkgogogo/red-book-note/blob/master/note/other/mock.md)
