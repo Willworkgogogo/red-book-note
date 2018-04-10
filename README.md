@@ -60,3 +60,4 @@
 
 1. [Axios api整理](https://github.com/Willworkgogogo/red-book-note/issues/4)
 1. [Mock.js 使用]()
+1. [webpack里的alias如何应用到html和css的资源引用中]()
