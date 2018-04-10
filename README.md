@@ -58,6 +58,6 @@
 
 <h3 id="4">其他</h3>
 
-1. [Axios api整理](https://github.com/Willworkgogogo/red-book-note/issues/4)
-1. [Mock.js 使用]()
+1. [Axios api整理](https://github.com/Willworkgogogo/red-book-note/blob/master/note/other/axios.md)
+1. [Mock.js 使用](https://github.com/Willworkgogogo/red-book-note/blob/master/note/other/mock.md)
 1. [webpack里的alias如何应用到html和css的资源引用中]()
