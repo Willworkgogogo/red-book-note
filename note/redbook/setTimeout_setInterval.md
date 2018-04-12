@@ -1,4 +1,5 @@
-# 定时器
+# 定时器和JS任务执行逻辑
+
 > 这两个定时器平时用的不算少，语法什么的就不写了，主要理理代码执行规则和顺序
 
 `留意`
@@ -21,7 +22,7 @@
 > 任务队列中又可以将其中的异步任务细分为 `宏任务` 和 `微任务`。 任务队列是一个事件队列（也可以叫消息队列），如当i/o设备完成一项任务时
 > 就会在任务队列中添加一个事件！！执行栈在为空时就会循环读取任务队列里面的事件。主线程从"任务队列"中读取事件，这个过程是循环不断的，所以整个的这种运行机制又称为`Event Loop（事件循环）`。
 
-- `宏任务`，可以有多个。script(全局任务)、setTimeout、setInterval、setImmediate、I\O、UI rendering(界面渲染)
+- `宏任务`，可以有多个。script(全局任务)、setTimeout、setInterval、setImmediate、I\O、UI rendering(界面渲染)
 - `微任务`，在任务队列中仅有一个。process.nextTick(Node环境)、Promise、Object.observer(已废弃，观察对象的变化)、MutationObserver(观察dom的变化)
 
 `任务队列中会有哪些事件：`
