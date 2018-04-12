@@ -44,6 +44,7 @@
 1. 其他
     - [Vscode开发vue环境的配置](https://github.com/Willworkgogogo/red-book-note/blob/master/note/vue/vscode.config.md)
     - [理解Vuex]()
+    - [Vue-router使用]()
 
 
 
