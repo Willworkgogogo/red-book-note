@@ -15,10 +15,10 @@
 ```
 
 `js中使用路由`
-> 这种方式是主要路由定义方式，放一个文件里统一管理路由，分治！！！然后，得遵守vue-router的书写规则
+> 这种方式是主要路由定义方式，放一个文件里统一管理路由，分治！！！然后，得遵守vue-router的书写规则
 1. 按规则构造数组对象，对象的格式按vue-router定义的来，定义一个个路由信息
 1. 实例化VueRouter构造函数，该函数接受一个对象参数，里面有routes属性对应上面定义的路由数组
-1. 将路由实例作为参数传递给vue实例
+1. 将路由实例作为参数传递给vue实例
 
 ```js
   // 0. 如果使用模块化机制编程，导入Vue和VueRouter，要调用 Vue.use(VueRouter)
@@ -64,6 +64,7 @@
 
 
 ![vue-route](http://image.yalingmai.cn/vm.route.jpg)
+
 ![vue-router](http://image.yalingmai.cn/vm.router.jpg)
 
 `使用到动态路由:`
