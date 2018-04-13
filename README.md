@@ -18,8 +18,8 @@
 1. [（第007篇）正则 RegExp 类型](https://github.com/Willworkgogogo/red-book-note/blob/master/note/redbook/regexp.md)
 1. [（第008篇）setTimeout、setInterval、Event Loop](https://github.com/Willworkgogogo/red-book-note/blob/master/note/redbook/setTimeout_setInterval.md)
 1. [（第009篇）SVG Sprite](https://github.com/Willworkgogogo/red-book-note/blob/master/note/redbook/svg.md)
-1. [（第010篇）DOM类型详细学习笔记](https://github.com/Willworkgogogo/red-book-note/blob/master/note/redbook/setTimeout_setInterval.md)
-1. [（第011篇）事件的相关知识](https://github.com/Willworkgogogo/red-book-note/blob/master/note/redbook/setTimeout_setInterval.md)
+1. [（第010篇）DOM类型详细学习笔记](https://github.com/Willworkgogogo/red-book-note/blob/master/note/redbook/dom.md)
+1. [（第011篇）事件的相关知识](https://github.com/Willworkgogogo/red-book-note/blob/master/note/redbook/事件.md)
 
 
 
