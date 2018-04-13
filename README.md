@@ -20,6 +20,7 @@
 1. [（第009篇）SVG Sprite](https://github.com/Willworkgogogo/red-book-note/blob/master/note/redbook/svg.md)
 1. [（第010篇）DOM类型详细学习笔记](https://github.com/Willworkgogogo/red-book-note/blob/master/note/redbook/setTimeout_setInterval.md)
 1. [（第011篇）事件的相关知识](https://github.com/Willworkgogogo/red-book-note/blob/master/note/redbook/setTimeout_setInterval.md)
+1. [（第012篇）比较change和input事件](https://github.com/Willworkgogogo/red-book-note/blob/master/note/redbook/input_change_event.md)
 
 
 
