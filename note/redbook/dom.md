@@ -1,8 +1,8 @@
 # DOM
 
 ### 目录
-1. [Node类型](#Node类型)
-1. [Document类型](#Document类型)
+1. [Node类型](#node类型)
+1. [Document类型](#document类型)
 
 
 ## Node类型
