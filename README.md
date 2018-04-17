@@ -65,4 +65,4 @@
 1. [Mock.js 使用](https://github.com/Willworkgogogo/red-book-note/blob/master/note/other/mock.md)
 1. [webpack里的alias如何应用到html和css的资源引用中](https://github.com/Willworkgogogo/red-book-note/blob/master/note/other/vue%E4%B8%AD%E5%BC%95%E7%94%A8%E8%B5%84%E6%BA%90%E6%97%B6~%E7%9A%84%E6%84%8F%E6%80%9D.md)
 1. [SSH公钥管理](https://github.com/Willworkgogogo/red-book-note/blob/master/note/other/ssh.md)
-1. [npm包文件版本号符号意义](https://github.com/Willworkgogogo/red-book-note/blob/master/note/other/npm.md)
+1. [npm包文件版本号符号意义](https://github.com/Willworkgogogo/red-book-note/blob/master/note/other/npm.md)
