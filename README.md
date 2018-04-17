@@ -1,13 +1,13 @@
-# 目录
-1. [红宝书总结100篇](#1)
-1. [Es6总结30篇](#2)
-1. [Vue](#3)
-1. [Node笔记](#5)
-1. [Rxjs笔记](#6)
-1. [Jquery源码](#7)
-1. [其他](#4)
+### 目录
+1. [红宝书总结100篇](#红宝书总结100篇)
+1. [Es6总结30篇](#Es6总结30篇)
+1. [Vue](#Vue)
+1. [Node笔记](#Node笔记)
+1. [Rxjs笔记](#Rxjs笔记)
+1. [Jquery源码](#Jquery源码)
+1. [其他](#其他)
 
-<h3 id="1">红宝书总结100篇</h3>
+### 红宝书总结100篇
 
 1. [Array.prototype.sort()实现原理](https://github.com/Willworkgogogo/red-book-note/blob/master/note/redbook/sort.md)
 1. [concat()、slice()、splice()详解](https://github.com/Willworkgogogo/red-book-note/issues/2)
@@ -21,18 +21,22 @@
 1. [DOM类型详细学习笔记](https://github.com/Willworkgogogo/red-book-note/blob/master/note/redbook/dom.md)
 1. [事件的相关知识](https://github.com/Willworkgogogo/red-book-note/blob/master/note/redbook/事件.md)
 1. [比较change和input事件](https://github.com/Willworkgogogo/red-book-note/blob/master/note/redbook/input_change_event.md)
+1. [TODO 原型](https://github.com/Willworkgogogo/red-book-note/blob/master/note/redbook/input_change_event.md)
+1. [TODO 作用域链](https://github.com/Willworkgogogo/red-book-note/blob/master/note/redbook/input_change_event.md)
 
 
 
 
 
-<h3 id="2">Es6总结30篇</h3>
+### Es6总结30篇
 
-1. [（第01篇）Promise语法解析](https://github.com/Willworkgogogo/red-book-note/issues/4)
+1. [Promise语法解析](https://github.com/Willworkgogogo/red-book-note/blob/master/note/es6/promise.md)
+1. [解构赋值](https://github.com/Willworkgogogo/red-book-note/blob/master/note/es6/解构赋值.md)
+1. [(TODO)函数的扩展](https://github.com/Willworkgogogo/red-book-note/blob/master/note/es6/函数的扩展.md)
 
 
 
-<h3 id="3">Vue</h3>
+### Vue
 
 1. vue-cli项目文件内容详解
     - [build文件夹____check-versions.js](https://github.com/Willworkgogogo/red-book-note/blob/master/note/vue/vue-cli/check-versions.js.md)
@@ -45,21 +49,22 @@
     - [浅析Vue.use()](https://github.com/Willworkgogogo/red-book-note/blob/master/note/vue/vue-use.md)
 1. 其他
     - [Vscode开发vue环境的配置](https://github.com/Willworkgogogo/red-book-note/blob/master/note/vue/vscode.config.md)
-    - [理解Vuex]()
+    - [(TODO)理解Vuex]()
     - [Vue-router使用](https://github.com/Willworkgogogo/red-book-note/blob/master/note/vue/vue-router/vue-router.md)
+    - [(TODO)浏览器的帧动画和vue动画实现详解]()
 
 
 
 
-<h3 id="5">Node笔记</h3>
+### Node笔记
 
 
 
-<h3 id="6">Rxjs笔记</h3>
+### Rxjs笔记
 
-<h3 id="7">Jquery源码</h3>
+### Jquery源码
 
-<h3 id="4">其他</h3>
+### 其他
 
 1. [Axios api整理](https://github.com/Willworkgogogo/red-book-note/blob/master/note/other/axios.md)
 1. [Mock.js 使用](https://github.com/Willworkgogogo/red-book-note/blob/master/note/other/mock.md)
