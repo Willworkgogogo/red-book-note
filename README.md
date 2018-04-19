@@ -2,6 +2,7 @@
 1. [红宝书总结100篇](#红宝书总结100篇)
 1. [Es6总结30篇](#Es6总结30篇)
 1. [Vue](#Vue)
+1. [Typescript](#Typescript)
 1. [Node笔记](#Node笔记)
 1. [Rxjs笔记](#Rxjs笔记)
 1. [Jquery源码](#Jquery源码)
@@ -54,6 +55,7 @@
     - [(待完善)浏览器的帧动画和vue动画实现详解](https://github.com/Willworkgogogo/red-book-note/blob/master/note/vue/动画.md)
 
 
+### Typescript笔记
 
 
 ### Node笔记
