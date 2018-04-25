@@ -22,8 +22,6 @@
 1. [DOM类型详细学习笔记](https://github.com/Willworkgogogo/red-book-note/blob/master/note/redbook/dom.md)
 1. [事件的相关知识](https://github.com/Willworkgogogo/red-book-note/blob/master/note/redbook/事件.md)
 1. [比较change和input事件](https://github.com/Willworkgogogo/red-book-note/blob/master/note/redbook/input_change_event.md)
-1. [TODO 原型](https://github.com/Willworkgogogo/red-book-note/blob/master/note/redbook/input_change_event.md)
-1. [TODO 作用域链](https://github.com/Willworkgogogo/red-book-note/blob/master/note/redbook/input_change_event.md)
 
 
 
