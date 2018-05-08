@@ -11,3 +11,4 @@
 ## 神器
 1. [查看当前工具的快捷键的插件](https://www.mediaatelier.com/CheatSheet/)
 1. [chrome插件，列出某个git仓库的内容，点击跳转](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)
+1. [图片压缩](https://tinypng.com/)
