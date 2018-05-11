@@ -5,6 +5,7 @@
 1. [Markdown语法中文文档](http://xianbai.me/learn-md/index.html)
 1. [GPU和CPU的区别](https://www.zhihu.com/question/19903344)
 1. [jquery轮播插件slick 20000+star](https://github.com/kenwheeler/slick/)
+1. [《设计模式》翻译，感觉很不错的翻译，抓紧学](https://www.oschina.net/translate/learning-javascript-design-patterns#introduction)
 
 
 
