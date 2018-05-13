@@ -5,3 +5,14 @@
 1. [Markdown语法中文文档](http://xianbai.me/learn-md/index.html)
 1. [GPU和CPU的区别](https://www.zhihu.com/question/19903344)
 1. [jquery轮播插件slick 20000+star](https://github.com/kenwheeler/slick/)
+1. [《Javascript设计模式》翻译，感觉很不错的翻译，抓紧学](https://www.oschina.net/translate/learning-javascript-design-patterns#introduction)
+
+
+
+## 神器
+1. [查看当前工具的快捷键的插件](https://www.mediaatelier.com/CheatSheet/)
+1. [chrome插件，列出某个git仓库的内容，点击跳转](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)
+1. [图片压缩](https://tinypng.com/)
+
+## 在线学习网站
+1. [中国Mooc大学, 通过里面的大学计算机课程弥补基础👍](https://www.icourse163.org/)
