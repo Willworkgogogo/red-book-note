@@ -13,7 +13,7 @@
 1. [Array.prototype.sort()实现原理](https://github.com/Willworkgogogo/red-book-note/blob/master/note/redbook/sort.md)
 1. [concat()、slice()、splice()详解](https://github.com/Willworkgogogo/red-book-note/issues/2)
 1. [Array的其他方法every、some、filter、map、forEach、reduce](https://github.com/Willworkgogogo/red-book-note/blob/master/note/redbook/array.md)
-1. [call()、apply()使用](https://github.com/Willworkgogogo/red-book-note/blob/master/note/redbook/apply%08-call.md)
+1. [call()、apply()、bind()使用和区别](https://github.com/Willworkgogogo/red-book-note/blob/master/note/redbook/apply%08-call.md)
 1. [基本概念](https://github.com/Willworkgogogo/red-book-note/blob/master/note/redbook/base-concepts.md)
 1. [Date类型](https://github.com/Willworkgogogo/red-book-note/blob/master/note/redbook/date.md)
 1. [正则 RegExp 类型](https://github.com/Willworkgogogo/red-book-note/blob/master/note/redbook/regexp.md)
@@ -23,6 +23,7 @@
 1. [事件的相关知识](https://github.com/Willworkgogogo/red-book-note/blob/master/note/redbook/事件.md)
 1. [比较change和input事件](https://github.com/Willworkgogogo/red-book-note/blob/master/note/redbook/input_change_event.md)
 1. [js的深浅拷贝](https://github.com/Willworkgogogo/red-book-note/blob/master/note/redbook/js的深浅拷贝.md)
+1. [总结一下js的函数类型](https://github.com/Willworkgogogo/red-book-note/blob/master/note/redbook/function.md)
 
 
 
@@ -47,6 +48,7 @@
     - [build文件夹____webpack.dev.conf.js](https://github.com/Willworkgogogo/red-book-note/blob/master/note/vue/vue-cli/webpack.dev.conf.js.md)
 1. 源码解析
     - [浅析Vue.use()](https://github.com/Willworkgogogo/red-book-note/blob/master/note/vue/vue-use.md)
+    - [TODO css资源如何编译管理](https://github.com/Willworkgogogo/red-book-note/blob/master/note/vue/vue-css.md)
 1. 其他
     - [Vscode开发vue环境的配置](https://github.com/Willworkgogogo/red-book-note/blob/master/note/vue/vscode.config.md)
     - [(TODO)理解Vuex]()
@@ -72,3 +74,7 @@
 1. [webpack里的alias如何应用到html和css的资源引用中](https://github.com/Willworkgogogo/red-book-note/blob/master/note/other/vue%E4%B8%AD%E5%BC%95%E7%94%A8%E8%B5%84%E6%BA%90%E6%97%B6~%E7%9A%84%E6%84%8F%E6%80%9D.md)
 1. [SSH公钥管理](https://github.com/Willworkgogogo/red-book-note/blob/master/note/other/ssh.md)
 1. [npm包文件版本号符号意义](https://github.com/Willworkgogogo/red-book-note/blob/master/note/other/npm.md)
+1. [TODO 资源上传的原理和实现](https://github.com/Willworkgogogo/red-book-note/blob/master/note/other/upload.md)
+1. [学习服务器操作.md](https://github.com/Willworkgogogo/red-book-note/blob/master/note/other/学习服务器操作.md)
+
+
