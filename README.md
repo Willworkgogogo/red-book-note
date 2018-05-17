@@ -9,6 +9,7 @@
 1. [其他](#其他)
 
 ### 红宝书总结100篇
+---
 
 1. [Array.prototype.sort()实现原理](https://github.com/Willworkgogogo/red-book-note/blob/master/note/redbook/sort.md)
 1. [concat()、slice()、splice()详解](https://github.com/Willworkgogogo/red-book-note/issues/2)
@@ -30,6 +31,7 @@
 
 
 ### Es6总结30篇
+---
 
 1. [Promise语法解析](https://github.com/Willworkgogogo/red-book-note/blob/master/note/es6/promise.md)
 1. [解构赋值](https://github.com/Willworkgogogo/red-book-note/blob/master/note/es6/解构赋值.md)
@@ -38,6 +40,7 @@
 
 
 ### Vue
+---
 
 1. vue-cli项目文件内容详解
     - [build文件夹____check-versions.js](https://github.com/Willworkgogogo/red-book-note/blob/master/note/vue/vue-cli/check-versions.js.md)
@@ -57,19 +60,22 @@
 
 
 ### Typescript笔记
+---
 
 
 ### Node笔记
-
+---
 
 
 ### Rxjs笔记
+---
 
 ### 源码学习
 ---
 1. [jQuery源码学习](https://github.com/Willworkgogogo/jQuerySource)
 
 ### 其他
+---
 
 1. [Axios api整理](https://github.com/Willworkgogogo/red-book-note/blob/master/note/other/axios.md)
 1. [Mock.js 使用](https://github.com/Willworkgogogo/red-book-note/blob/master/note/other/mock.md)
