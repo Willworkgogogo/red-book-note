@@ -21,6 +21,10 @@
 1. [ng-cli脚手架](https://github.com/angular/angular-cli)
 
 ## jQuery源码学习
+
+**我的源码分析**
+[传送门](https://github.com/Willworkgogogo/jQuerySource)
+
 1. [源码快速查找工具](https://j11y.io/jquery/)
 1. [前人源码分析博客1](http://www.cnblogs.com/aaronjs/p/3279314.html)
 1. [前人源码分析博客2](http://www.cnblogs.com/nuysoft/archive/2011/11/14/2248023.html)
