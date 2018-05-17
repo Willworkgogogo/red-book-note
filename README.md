@@ -67,7 +67,7 @@
 
 ### 源码学习
 ---
-1. [jQuery源码学习](https://github.com/Willworkgogogo/jQuerySource)**
+1. [jQuery源码学习](https://github.com/Willworkgogogo/jQuerySource)
 
 ### 其他
 
