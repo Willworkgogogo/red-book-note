@@ -25,3 +25,4 @@
 1. [前人源码分析博客1](http://www.cnblogs.com/aaronjs/p/3279314.html)
 1. [前人源码分析博客2](http://www.cnblogs.com/nuysoft/archive/2011/11/14/2248023.html)
 1. [前人源码分析博客3](https://github.com/songjinzhong/JQuerySource)
+1. [github项目，解释的很清晰](https://github.com/chokcoco/jQuery-)
