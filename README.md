@@ -5,7 +5,7 @@
 1. [Typescript](#Typescript)
 1. [Node笔记](#Node笔记)
 1. [Rxjs笔记](#Rxjs笔记)
-1. [Jquery源码](#Jquery源码)
+1. [源码学习](#源码学习)
 1. [其他](#其他)
 
 ### 红宝书总结100篇
@@ -65,8 +65,9 @@
 
 ### Rxjs笔记
 
-### Jquery源码
-**[我的源码学习](https://github.com/Willworkgogogo/jQuerySource)**
+### 源码学习
+---
+1. [jQuery源码学习](https://github.com/Willworkgogogo/jQuerySource)**
 
 ### 其他
 
