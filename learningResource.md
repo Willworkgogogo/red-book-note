@@ -6,6 +6,7 @@
 1. [GPU和CPU的区别](https://www.zhihu.com/question/19903344)
 1. [jquery轮播插件slick 20000+star](https://github.com/kenwheeler/slick/)
 1. [《Javascript设计模式》翻译，感觉很不错的翻译，抓紧学](https://www.oschina.net/translate/learning-javascript-design-patterns#introduction)
+1. [阮大神的js标准参考教程和nodejs模块解析👍](http://javascript.ruanyifeng.com/nodejs/assert.html#)
 
 
 
@@ -21,7 +22,12 @@
 1. [ng-cli脚手架](https://github.com/angular/angular-cli)
 
 ## jQuery源码学习
+
+**我的源码分析**
+[传送门](https://github.com/Willworkgogogo/jQuerySource)
+
 1. [源码快速查找工具](https://j11y.io/jquery/)
 1. [前人源码分析博客1](http://www.cnblogs.com/aaronjs/p/3279314.html)
 1. [前人源码分析博客2](http://www.cnblogs.com/nuysoft/archive/2011/11/14/2248023.html)
 1. [前人源码分析博客3](https://github.com/songjinzhong/JQuerySource)
+1. [github项目，解释的很清晰](https://github.com/chokcoco/jQuery-)
