@@ -31,3 +31,7 @@
 1. [前人源码分析博客2](http://www.cnblogs.com/nuysoft/archive/2011/11/14/2248023.html)
 1. [前人源码分析博客3](https://github.com/songjinzhong/JQuerySource)
 1. [github项目，解释的很清晰](https://github.com/chokcoco/jQuery-)
+
+
+## 图片资源
+1. [简约的背景图片](https://coolbackgrounds.io/)
