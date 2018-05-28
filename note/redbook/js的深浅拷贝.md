@@ -31,6 +31,5 @@
 结果证明上面的代码可以实现深层次的克隆。同时也可以用jquery下面的extend工具方法实现：jQuery.extend([deep], target, object1, [objectN])；  第一个参数设置为true，则jQuery返回一个深层次的副本，递归地复制找到的任何对象。代码实现如下：
 
 ![](https://pic1.zhimg.com/50/v2-8bb83a96ac964fb532101084ff1bd36d_hd.jpg)
-<img 
 
 其实对于javascript的深拷贝和浅拷贝的方法还有很多，这里只是介绍了常见的几种方式。

@@ -257,6 +257,55 @@
 
 
 ### 9. 取消请求
+在服务端返回结果前手动取消当前请求。应用场景：单页应用中，路由切换，需要手动的取消上个页面上的未完成的部分请求，防止该请求对页面性能的影响。axios官网提供了两种方式实现请求的取消操作。
+
+
+`代码实例：`
+
+方法一，手动取消：
+
+```js
+// 1. 拿到axios的CancelToken方法
+// 2. 调用CancelToken的source工厂函数生成source对象，它包含了一个token
+const CancelToken = axios. CancelToken
+const source = CancelToken.source()
+axios.get(url, {
+  cancelToken: source.token // 给这个请求打上个token标记，方便取消的时候准确定位
+}).then()
+  .catch(function(thrown) {
+    if (axios.isCancel(thrown)) {
+      console.log('Request canceled', thrown.message)
+    }else{}
+  })
+
+// post方法 的传参方式
+axios.post('/user/12345', {
+  name: 'new name'
+}, {
+  cancelToken: source.token
+})
+
+// cancel方法里的参数可省略
+// 该方法里的参数，会被包装在.catch的注入到函数的参数对象中
+source.cancel('Operation canceled by the user.');
+```
+
+
+方法二， 通过给CancelToken构造函数传递一个函数，来生成取消指令：
+
+```js
+const CancelToken = axios.CancelToken
+let cancel
+
+axios.get(url, {
+  cancelToken:  new CancelToken(function(c) {
+   cancel = c
+  })
+})
+
+// 调用拿到的方法，取消请求
+cancel()
+```
 
 
 ### 10. 注意事项
