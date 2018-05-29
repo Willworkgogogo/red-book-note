@@ -1,3 +1,44 @@
+> webpack version 3.10.0
+
+`目录结构`
+```shell
+  - webpack-demo
+    - index.js
+    - bar.js
+    - webpack.config.js
+```
+
+index.js
+```js
+import bar from './bar'
+bar()
+```
+
+bar.js
+```js
+export default function bar() {
+  // bar.js 文件
+  console.log(`this is from bar.js file`)
+}
+```
+
+webpack.config.js
+```js
+const path = require('path')
+
+module.exports = {
+  entry: './index.js',
+  output: {
+    path: path.resolve(__dirname, 'dist'),
+    filename: 'main.bundle.js'
+  }
+}
+```
+
+`编译后：`
+
+dist/main.bundle.js
+```js
 ;(function(modules) {
   // 建立一个模块缓存变量
   var installedModules = {}
@@ -105,3 +146,8 @@
     }
   ]
 )
+
+```
+
+## 拆解过程
+
