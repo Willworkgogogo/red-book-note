@@ -26,6 +26,7 @@
 **我的源码分析**
 [传送门](https://github.com/Willworkgogogo/jQuerySource)
 
+**网络资源**
 1. [源码快速查找工具](https://j11y.io/jquery/)
 1. [前人源码分析博客1](http://www.cnblogs.com/aaronjs/p/3279314.html)
 1. [前人源码分析博客2](http://www.cnblogs.com/nuysoft/archive/2011/11/14/2248023.html)
@@ -35,3 +36,9 @@
 
 ## 图片资源
 1. [简约的背景图片](https://coolbackgrounds.io/)
+
+
+## 未购买的书籍整理📚
+1. [《大话设计模式》程杰]()
+1. [《Helvetica》记录片，讲述该字体的诞生]()
+1. [《Unix编程艺术》讲的是如何设计程序，提高编程思维]()
