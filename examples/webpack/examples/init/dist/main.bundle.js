@@ -89,7 +89,7 @@
     function(module, __webpack_exports__, __webpack_require__) {
       'use strict'
       Object.defineProperty(__webpack_exports__, '__esModule', { value: true }) // 设置模块id为0的模块的，exports对象的__esModule的value属性为true
-      var __WEBPACK_IMPORTED_MODULE_0__bar__ = __webpack_require__(1)
+      var __WEBPACK_IMPORTED_MODULE_0__bar__ = __webpack_require__(1) // 拿到模块id为1的exports对象  // 先调用数组第二项
 
       Object(__WEBPACK_IMPORTED_MODULE_0__bar__['a' /* default */])()
     },
@@ -97,7 +97,7 @@
     // 数组的第二项
     function(module, __webpack_exports__, __webpack_require__) {
       'use strict'
-      __webpack_exports__['a'] = bar
+      __webpack_exports__['a'] = bar // 把导入的函数bar()，挂载到__webpack_exports__对象上
       function bar() {
         // bar.js 文件
         console.log(`this is from bar.js file`)
