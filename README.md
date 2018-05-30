@@ -61,6 +61,8 @@
 
 ### Typescript笔记
 ---
+1. [tsconfig.json文件的定义 和 超简单的声明文件使用方式了解下]()
+1. [typescript的接口定义](https://github.com/Willworkgogogo/red-book-note/blob/master/note/typescript/base.md)
 
 
 ### Node笔记
@@ -73,7 +75,7 @@
 ### 源码学习
 ---
 1. [jQuery源码学习](https://github.com/Willworkgogogo/jQuerySource)
-1. Webpack源码学习
+1. [Webpack源码学习](https://github.com/Willworkgogogo/red-book-note/blob/master/note/webpack/analyse3.10.md)
     - 
 
 ### 其他
