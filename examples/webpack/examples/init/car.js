@@ -1,1 +1,2 @@
-export const ERR_OK = 0
+const ERR_OK = 0
+export default ERR_OK
