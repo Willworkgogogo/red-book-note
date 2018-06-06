@@ -8,6 +8,7 @@
 1. [《Javascript设计模式》翻译，感觉很不错的翻译，抓紧学](https://www.oschina.net/translate/learning-javascript-design-patterns#introduction)
 1. [阮大神的js标准参考教程和nodejs模块解析👍](http://javascript.ruanyifeng.com/nodejs/assert.html#)
 1. [JS 函数式编程指南](https://legacy.gitbook.com/book/llh911001/mostly-adequate-guide-chinese/details)
+1. ✨[Nodejs学习笔记](https://github.com/chyingp/nodejs-learning-guide)✨
 
 
 
