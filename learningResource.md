@@ -9,6 +9,9 @@
 1. [JS 函数式编程指南](https://legacy.gitbook.com/book/llh911001/mostly-adequate-guide-chinese/details)
 
 
+## Vue
+1. [huangyi的源码分析文档](https://ustbhuangyi.github.io/vue-analysis/doc/)
+
 ## Nodejs
 1. ✨[Nodejs学习笔记](https://github.com/chyingp/nodejs-learning-guide)✨
 1. [阮大神的js标准参考教程和nodejs模块解析👍](http://javascript.ruanyifeng.com/nodejs/assert.html#)
