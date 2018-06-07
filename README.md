@@ -1,4 +1,4 @@
-### 目录
+## 目录
 1. [红宝书总结100篇](#红宝书总结100篇)
 1. [Es6总结30篇](#Es6总结30篇)
 1. [Vue](#Vue)
@@ -8,8 +8,7 @@
 1. [源码学习](#源码学习)
 1. [其他](#其他)
 
-### 红宝书总结100篇
----
+## 红宝书总结100篇
 
 1. [Array.prototype.sort()实现原理](https://github.com/Willworkgogogo/red-book-note/blob/master/note/redbook/sort.md)
 1. [concat()、slice()、splice()详解](https://github.com/Willworkgogogo/red-book-note/issues/2)
@@ -25,13 +24,13 @@
 1. [比较change和input事件](https://github.com/Willworkgogogo/red-book-note/blob/master/note/redbook/input_change_event.md)
 1. [js的深浅拷贝](https://github.com/Willworkgogogo/red-book-note/blob/master/note/redbook/js的深浅拷贝.md)
 1. [总结一下js的函数类型](https://github.com/Willworkgogogo/red-book-note/blob/master/note/redbook/function.md)
+1. [Object的一些方法汇总](https://github.com/Willworkgogogo/red-book-note/blob/master/note/redbook/object.keys.md)
 
 
 
 
 
-### Es6总结30篇
----
+## Es6总结30篇
 
 1. [Promise语法解析](https://github.com/Willworkgogogo/red-book-note/blob/master/note/es6/promise.md)
 1. [解构赋值](https://github.com/Willworkgogogo/red-book-note/blob/master/note/es6/解构赋值.md)
@@ -39,8 +38,7 @@
 
 
 
-### Vue
----
+## Vue
 
 1. vue-cli项目文件内容详解
     - [build文件夹____check-versions.js](https://github.com/Willworkgogogo/red-book-note/blob/master/note/vue/vue-cli/check-versions.js.md)
@@ -59,27 +57,23 @@
     - [(待完善)浏览器的帧动画和vue动画实现详解](https://github.com/Willworkgogogo/red-book-note/blob/master/note/vue/动画.md)
 
 
-### Typescript笔记
----
+## Typescript笔记
+
 1. [tsconfig.json文件的定义 和 超简单的声明文件使用方式了解下]()
 1. [typescript的接口定义](https://github.com/Willworkgogogo/red-book-note/blob/master/note/typescript/base.md)
 
 
-### Node笔记
----
+## Node笔记
 
 
-### Rxjs笔记
----
+## Rxjs笔记
 
-### 源码学习
----
+## 源码学习
+
 1. [jQuery源码学习](https://github.com/Willworkgogogo/jQuerySource)
 1. [Webpack源码学习](https://github.com/Willworkgogogo/red-book-note/blob/master/note/webpack/analyse3.10.md)
-    - 
 
-### 其他
----
+## 其他
 
 1. [Axios api整理](https://github.com/Willworkgogogo/red-book-note/blob/master/note/other/axios.md)
 1. [Mock.js 使用](https://github.com/Willworkgogogo/red-book-note/blob/master/note/other/mock.md)
