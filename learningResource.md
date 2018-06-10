@@ -12,6 +12,7 @@
 
 ## Vue
 1. [huangyi的源码分析文档](https://ustbhuangyi.github.io/vue-analysis/doc/)
+1. [源码分析《VUE技术内幕》](http://hcysun.me/vue-design/art/)
 
 ## Nodejs
 1. ✨[Nodejs学习笔记](https://github.com/chyingp/nodejs-learning-guide)✨
