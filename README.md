@@ -54,7 +54,8 @@
     - [Vscode开发vue环境的配置](https://github.com/Willworkgogogo/red-book-note/blob/master/note/vue/vscode.config.md)
     - [(TODO)理解Vuex]()
     - [Vue-router使用](https://github.com/Willworkgogogo/red-book-note/blob/master/note/vue/vue-router/vue-router.md)
-    - [(待完善)浏览器的帧动画和vue动画实现详解](https://github.com/Willworkgogogo/red-book-note/blob/master/note/vue/动画.md)
+    - [vue动画实现](https://github.com/Willworkgogogo/red-book-note/blob/master/note/vue/vue动画.md)
+    -
 
 
 ## Typescript笔记
