@@ -7,10 +7,12 @@
 1. [jquery轮播插件slick 20000+star](https://github.com/kenwheeler/slick/)
 1. [《Javascript设计模式》翻译，感觉很不错的翻译，抓紧学](https://www.oschina.net/translate/learning-javascript-design-patterns#introduction)
 1. [JS 函数式编程指南](https://legacy.gitbook.com/book/llh911001/mostly-adequate-guide-chinese/details)
+1. [文章--发布订阅模式(带实例)](https://juejin.im/post/5b125ad3e51d450688133f22)
 
 
 ## Vue
 1. [huangyi的源码分析文档](https://ustbhuangyi.github.io/vue-analysis/doc/)
+1. [源码分析《VUE技术内幕》](http://hcysun.me/vue-design/art/)
 
 ## Nodejs
 1. ✨[Nodejs学习笔记](https://github.com/chyingp/nodejs-learning-guide)✨
@@ -21,6 +23,7 @@
 1. [查看当前工具的快捷键的插件](https://www.mediaatelier.com/CheatSheet/)
 1. [chrome插件，列出某个git仓库的内容，点击跳转](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)
 1. [图片压缩](https://tinypng.com/)
+1. [阿里CDN资源，超全](http://libs.cdnjs.net)
 
 ## 在线学习网站
 1. [中国Mooc大学, 通过里面的大学计算机课程弥补基础👍](https://www.icourse163.org/)
