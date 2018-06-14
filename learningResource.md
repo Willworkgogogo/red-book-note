@@ -9,6 +9,8 @@
 1. [JS 函数式编程指南](https://legacy.gitbook.com/book/llh911001/mostly-adequate-guide-chinese/details)
 1. [文章--发布订阅模式(带实例)](https://juejin.im/post/5b125ad3e51d450688133f22)
 
+## React
+1. [React中文网](http://www.css88.com/react/)
 
 ## Vue
 1. [huangyi的源码分析文档](https://ustbhuangyi.github.io/vue-analysis/doc/)
