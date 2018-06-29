@@ -11,6 +11,7 @@
 
 ## React
 1. [React中文网](http://www.css88.com/react/)
+1. [React小书](http://huziketang.mangojuice.top/books/react/lesson1)
 
 ## Vue
 1. [huangyi的源码分析文档](https://ustbhuangyi.github.io/vue-analysis/doc/)
