@@ -28,6 +28,7 @@
 1. [chrome插件，列出某个git仓库的内容，点击跳转](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)
 1. [图片压缩](https://tinypng.com/)
 1. [阿里CDN资源，超全](http://libs.cdnjs.net)
+1. [mac拾色工具](https://www.vultr.com)
 
 ## 在线学习网站
 1. [中国Mooc大学, 通过里面的大学计算机课程弥补基础👍](https://www.icourse163.org/)
