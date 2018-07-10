@@ -38,7 +38,8 @@
 ## Angular2
 1. [ng-cli脚手架](https://github.com/angular/angular-cli)
 
-## jQuery源码学习
+## Gulp资料
+1. [深入gulp的Stream，解释的很清楚](https://segmentfault.com/a/1190000003770541#articleHeader12)
 
 **我的源码分析**
 [传送门](https://github.com/Willworkgogogo/jQuerySource)
